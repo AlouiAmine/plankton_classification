@@ -1,1 +1,1 @@
-# plankton_classification
+# plankton image classification
